@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27617.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraCapture", "CameraCapture\CameraCapture.csproj", "{F1C390CF-6095-453C-A56B-438145D8A28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C390CF-6095-453C-A56B-438145D8A28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C390CF-6095-453C-A56B-438145D8A28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C390CF-6095-453C-A56B-438145D8A28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C390CF-6095-453C-A56B-438145D8A28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD2F9B4-73FF-4008-8BCD-E975F50E0552}
+	EndGlobalSection
+EndGlobal
